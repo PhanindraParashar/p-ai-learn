@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 test.ipynb
+protected_data/
 
 
 # C extensions
